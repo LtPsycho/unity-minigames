@@ -1,12 +1,12 @@
 # =============== #
 # Unity generated #
 # =============== #
-Minigames/[Tt]emp/
-Minigames/[Oo]bj/
-Minigames/[Bb]uild
-Minigames/Ll]ibrary/
-Minigames/sysinfo.txt
-Minigames/*.stackdump
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -25,10 +25,10 @@ Minigames/*.stackdump
 # ============ #
 # OS generated #
 # ============ #
-Minigames/.DS_Store*
-Minigames/._*
-Minigames/.Spotlight-V100
-Minigames/.Trashes
-Minigames/Icon?
-Minigames/ehthumbs.db
-Minigames/[Tt]humbs.db
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
